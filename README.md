@@ -1,5 +1,5 @@
 
-# 📊 HR Analytics Dashboard
+# HR Analytics Dashboard
 
 ## 📌 Project Overview
 The **HR Analytics Dashboard** provides key insights into workforce demographics, employee growth, salary distribution, job roles, and leave analysis. The dashboard helps HR teams and business leaders monitor employee trends and make data-driven decisions.
@@ -103,6 +103,7 @@ The organization maintains a balanced workforce with slightly higher female repr
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard]([(https://github.com/ritikraj3001/HR_Analytics_Dashboard_PowerBI/blob/main/HR%20Analytics%20Dashboard.png)]
+![HR Analytics Dashboard]
+(https://github.com/ritikraj3001/HR_Analytics_Dashboard_PowerBI/blob/main/HR%20Analytics%20Dashboard.png)
 
 ---
