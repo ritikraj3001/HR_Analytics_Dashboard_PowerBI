@@ -103,6 +103,6 @@ The organization maintains a balanced workforce with slightly higher female repr
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
+![HR Analytics Dashboard]([(https://github.com/ritikraj3001/HR_Analytics_Dashboard_PowerBI/blob/main/HR%20Analytics%20Dashboard.png)]
 
 ---
